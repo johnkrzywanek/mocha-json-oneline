@@ -1,0 +1,27 @@
+{
+  "name": "mocha-json-oneline",
+  "version": "1.0.0",
+  "description": "Mocha JSON reporter in one line (without pretty print)",
+  "main": "lib/mocha-json-oneline",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnkrzywanek/mocha-json-oneline.git"
+  },
+  "keywords": [
+    "mocha",
+    "json",
+    "reporter"
+  ],
+  "author": "John Krzywanek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnkrzywanek/mocha-json-oneline/issues"
+  },
+  "homepage": "https://github.com/johnkrzywanek/mocha-json-oneline#readme"
+}
