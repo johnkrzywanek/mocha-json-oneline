@@ -18,6 +18,9 @@
     "json",
     "reporter"
   ],
+  "dependencies": {
+    "mocha": ">=5"
+  },
   "author": "John Krzywanek",
   "license": "MIT",
   "bugs": {
