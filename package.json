@@ -1,6 +1,6 @@
 {
   "name": "mocha-json-oneline",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mocha JSON reporter in one line (without pretty print)",
   "main": "lib/mocha-json-oneline.js",
   "directories": {
